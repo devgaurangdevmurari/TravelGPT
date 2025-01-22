@@ -148,6 +148,7 @@ export const styles = StyleSheet.create({
     paddingVertical: 8,
     marginHorizontal: 8,
     maxHeight: 100,
+    color: '#000',
   },
   textMessage: {
     maxWidth: '80%',
@@ -158,7 +159,7 @@ export const styles = StyleSheet.create({
     backgroundColor: '#F1EFF0',
   },
   messageText: {
-    color: '#333',
+    color: '#222222',
     fontSize: 16,
   },
   previewStyle: {
